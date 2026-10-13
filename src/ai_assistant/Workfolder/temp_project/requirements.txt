@@ -1,0 +1,4 @@
+python>=3.8
+# No third‑party dependencies required for the core calculator.
+# Optional testing dependencies can be added here, e.g.,
+# pytest>=7.0
